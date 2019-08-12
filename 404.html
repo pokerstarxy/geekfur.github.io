@@ -315,6 +315,7 @@
     
     <div class="comments" id="comments">
       <div id="gitalk-container"></div>
+      <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
     </div>
     
   </div>
@@ -605,7 +606,25 @@
 
 
 
-
+  
+    
+      <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+      <script type="text/javascript">
+        const gitalk = new Gitalk({
+          clientID: '',
+          clientSecret: '',
+          repo: 'pokerstarxy.github.io',
+          owner: '',
+          admin: 'pokerstarxy'.split(','),
+          id: '1565587261927', #这个是基于文章时间创建 Issues ，默认是以文章标题作为标签创建 Issues 会导致长标题初始化失败。
+          pagerDirection: 'first',
+          // facebook-like distraction free mode
+          distractionFreeMode: false
+        })
+        gitalk.render('gitalk-container')
+      </script>
+    
+  
 
 
   
