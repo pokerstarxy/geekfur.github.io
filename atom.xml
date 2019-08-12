@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-12T10:46:05.757Z</updated>
+  <updated>2019-08-12T00:25:51.549Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,49 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>初衷</title>
-    <link href="http://yoursite.com/2019/08/12/%E5%88%9D%E8%A1%B7/"/>
-    <id>http://yoursite.com/2019/08/12/初衷/</id>
-    <published>2019-08-12T10:44:48.000Z</published>
-    <updated>2019-08-12T10:46:05.757Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="love" scheme="http://yoursite.com/categories/love/"/>
-    
-    
-      <category term="test_tag" scheme="http://yoursite.com/tags/test-tag/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test_my_site</title>
-    <link href="http://yoursite.com/2019/08/12/test-my-site/"/>
-    <id>http://yoursite.com/2019/08/12/test-my-site/</id>
-    <published>2019-08-12T00:34:47.000Z</published>
-    <updated>2019-08-12T05:37:51.545Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="test"><a href="#test" class="headerlink" title="test"></a>test</h3>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h3 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot; title=&quot;test&quot;&gt;&lt;/a&gt;test&lt;/h3&gt;
-      
-    
-    </summary>
-    
-      <category term="test" scheme="http://yoursite.com/categories/test/"/>
-    
-    
-      <category term="test_tag" scheme="http://yoursite.com/tags/test-tag/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
