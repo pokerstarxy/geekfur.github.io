@@ -9,27 +9,20 @@ tags:
 ### Markdown测试
 
 
-#h1级标题
-##h2级标题
-###h3级标题
-####h4级标题
-#####h5级标题
-######h6级标题
-
 分割线：三个以上的短线 即可作出分割线
 
 ----
 
 超链接：[连接名称](网址 , 标题)
-[我是链接名](http://www.izhangbo.cn, "我是标题")
+[我是链接名](https://pokerstarxy.github.io, "我是标题")
 [<i class="icon-refresh"></i> 点我刷新](/sonfilename/)
 
 另一种超链接写法：[链接名][链接代号]
 [here][3]
 然后在别的地方定义 3 这个详细链接信息，
-[3]: http://www.izhangbo.cn "聚牛团队"
+[3]: https://pokerstarxy.github.io "我的博客"
 
-直接展示链接的写法：<http://www.izhangbo.cn>
+直接展示链接的写法：<https://pokerstarxy.github.io>
 
 键盘键
 <kbd>Ctrl+[</kbd> and <kbd>Ctrl+]</kbd>
@@ -44,7 +37,7 @@ Use the `printf()` function.
 **粗体强调**
 
 图片
-![Alt text](https://upload.wikimedia.org/wikipedia/en/0/09/Plat_11.png "Optional title")
+![Alt text](http://m.elongstatic.com/trip/pc/default/guide/images/gn_map.gif "Optional title")
 
 使用 icon 图标文字
 <i class="icon-cog"></i>
