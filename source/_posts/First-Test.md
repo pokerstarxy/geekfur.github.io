@@ -17,11 +17,6 @@ tags:
 [我是链接名](https://pokerstarxy.github.io, "我是标题")
 [<i class="icon-refresh"></i> 点我刷新](/sonfilename/)
 
-另一种超链接写法：[链接名][链接代号]
-[here][3]
-然后在别的地方定义 3 这个详细链接信息，
-[3]: https://pokerstarxy.github.io "我的博客"
-
 直接展示链接的写法：<https://pokerstarxy.github.io>
 
 键盘键
