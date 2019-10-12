@@ -1,4 +1,3 @@
 # myblog
 
     Record My Notes
-
